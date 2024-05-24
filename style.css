@@ -8,9 +8,9 @@
   }
   
   body {
-    background-image: url("../img/bg.jpg");
     background-position: center;
     background-size: cover;
+    background-color: #ccc;
   }
   
   button {
@@ -36,7 +36,7 @@
   
   button i {
     pointer-events: none;
-    color: #102f5e;
+    color: #a50ba5;
     font-weight: bold;
   }
   
