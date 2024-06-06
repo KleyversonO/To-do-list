@@ -20,4 +20,5 @@ A lista tem a função de poder adicionar tarefas e poder editar, completar, bus
 
 ## Autores
 Matheus Battisti (Criador do projeto)
+
 Kleyverson de Oliveira Sampaio 
