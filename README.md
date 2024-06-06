@@ -8,3 +8,15 @@ O site apresenta um css simples com um background cinza, centralizado é possív
 
 ## Função
 A lista tem a função de poder adicionar tarefas e poder editar, completar, buscar tarefas, filtrar e excluir. Sendo muito útil para pessoas que necessitam de algum lugar para salvar seus trabalhos, e determinar tarefas que devem ser feitas.
+
+## Tecnologias utilizadas 
+* ``HTML 5``
+* ``CSS 3``
+* ``Java Script``
+* ``Github``
+* ``VsCode``
+* ``Microsoft Teams``
+
+## Autores
+Matheus Battisti (Criador do projeto)
+Kleyverson de Oliveira Sampaio 
