@@ -16,6 +16,7 @@ A lista tem a função de poder adicionar tarefas e poder editar, completar, bus
 * ``Github``
 * ``VsCode``
 * ``Microsoft Teams``
+* ``Youtube``
 
 ## Autores
 Matheus Battisti (Criador do projeto)
